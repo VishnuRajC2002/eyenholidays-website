@@ -3,12 +3,12 @@ import Link from 'next/link'
 import { images } from '@/lib/images'
 
 const destinations = [
-  { name: 'Dubai', country: 'UAE', price: 'From $599', img: images.destinations.dubai },
-  { name: 'Maldives', country: 'South Asia', price: 'From $1,299', img: images.destinations.maldives },
-  { name: 'Paris', country: 'France', price: 'From $899', img: images.destinations.paris },
-  { name: 'Bali', country: 'Indonesia', price: 'From $749', img: images.destinations.bali },
-  { name: 'Switzerland', country: 'Europe', price: 'From $1,099', img: images.destinations.switzerland },
-  { name: 'Istanbul', country: 'Turkey', price: 'From $649', img: images.destinations.turkey },
+  { name: 'Dubai', country: 'UAE', price: 'From ₹49,999', img: images.destinations.dubai },
+  { name: 'Maldives', country: 'South Asia', price: 'From ₹1,09,999', img: images.destinations.maldives },
+  { name: 'Paris', country: 'France', price: 'From ₹74,999', img: images.destinations.paris },
+  { name: 'Bali', country: 'Indonesia', price: 'From ₹62,999', img: images.destinations.bali },
+  { name: 'Switzerland', country: 'Europe', price: 'From ₹92,999', img: images.destinations.switzerland },
+  { name: 'Istanbul', country: 'Turkey', price: 'From ₹54,999', img: images.destinations.turkey },
 ]
 
 export default function Destinations() {

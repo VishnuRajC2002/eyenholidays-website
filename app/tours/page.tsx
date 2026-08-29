@@ -10,7 +10,7 @@ const tours = [
     duration: '8 Hours',
     groupSize: 'Up to 15',
     location: 'Dubai, UAE',
-    price: '$79',
+    price: '₹6,499',
     image: images.destinations.dubai,
   },
   {
@@ -19,7 +19,7 @@ const tours = [
     duration: '3 Hours',
     groupSize: 'Up to 20',
     location: 'Cappadocia, Turkey',
-    price: '$189',
+    price: '₹15,999',
     image: images.destinations.turkey,
   },
   {
@@ -28,7 +28,7 @@ const tours = [
     duration: '10 Hours',
     groupSize: 'Up to 10',
     location: 'Ubud, Bali',
-    price: '$65',
+    price: '₹5,499',
     image: images.destinations.bali,
   },
   {
@@ -37,7 +37,7 @@ const tours = [
     duration: '6 Hours',
     groupSize: 'Up to 12',
     location: 'Paris, France',
-    price: '$99',
+    price: '₹8,299',
     image: images.destinations.paris,
   },
   {
@@ -46,7 +46,7 @@ const tours = [
     duration: 'Full Day',
     groupSize: 'Up to 8',
     location: 'Interlaken, Switzerland',
-    price: '$249',
+    price: '₹20,999',
     image: images.destinations.switzerland,
   },
   {
@@ -55,7 +55,7 @@ const tours = [
     duration: '5 Hours',
     groupSize: 'Up to 6',
     location: 'Maldives',
-    price: '$129',
+    price: '₹10,999',
     image: images.destinations.maldives,
   },
 ]

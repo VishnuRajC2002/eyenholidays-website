@@ -3,14 +3,14 @@ import { FiCheck, FiClock, FiShield, FiGlobe } from 'react-icons/fi'
 import { images } from '@/lib/images'
 
 const countries = [
-  { name: 'UAE', time: '3-5 days', price: '$149' },
-  { name: 'USA', time: '10-15 days', price: '$299' },
-  { name: 'UK', time: '7-10 days', price: '$249' },
-  { name: 'Schengen (Europe)', time: '10-15 days', price: '$279' },
-  { name: 'Canada', time: '15-20 days', price: '$289' },
-  { name: 'Australia', time: '15-20 days', price: '$319' },
-  { name: 'Japan', time: '7-10 days', price: '$199' },
-  { name: 'Singapore', time: '3-5 days', price: '$129' },
+  { name: 'UAE', time: '3-5 days', price: '₹12,499' },
+  { name: 'USA', time: '10-15 days', price: '₹24,999' },
+  { name: 'UK', time: '7-10 days', price: '₹20,999' },
+  { name: 'Schengen (Europe)', time: '10-15 days', price: '₹23,499' },
+  { name: 'Canada', time: '15-20 days', price: '₹23,999' },
+  { name: 'Australia', time: '15-20 days', price: '₹26,999' },
+  { name: 'Japan', time: '7-10 days', price: '₹16,999' },
+  { name: 'Singapore', time: '3-5 days', price: '₹10,999' },
 ]
 
 const features = [

@@ -4,14 +4,14 @@ import { FaPlaneDeparture, FaPlaneArrival } from 'react-icons/fa'
 import { images } from '@/lib/images'
 
 const routes = [
-  { from: 'Dubai', to: 'London', price: '$349', airline: 'Emirates' },
-  { from: 'Dubai', to: 'New York', price: '$599', airline: 'Etihad' },
-  { from: 'Dubai', to: 'Singapore', price: '$289', airline: 'Singapore Air' },
-  { from: 'Dubai', to: 'Paris', price: '$379', airline: 'Air France' },
-  { from: 'Dubai', to: 'Bangkok', price: '$249', airline: 'Thai Airways' },
-  { from: 'Dubai', to: 'Sydney', price: '$699', airline: 'Qantas' },
-  { from: 'Dubai', to: 'Tokyo', price: '$449', airline: 'Japan Airlines' },
-  { from: 'Dubai', to: 'Istanbul', price: '$199', airline: 'Turkish Air' },
+  { from: 'Dubai', to: 'London', price: '₹28,999', airline: 'Emirates' },
+  { from: 'Dubai', to: 'New York', price: '₹49,999', airline: 'Etihad' },
+  { from: 'Dubai', to: 'Singapore', price: '₹23,999', airline: 'Singapore Air' },
+  { from: 'Dubai', to: 'Paris', price: '₹31,999', airline: 'Air France' },
+  { from: 'Dubai', to: 'Bangkok', price: '₹20,999', airline: 'Thai Airways' },
+  { from: 'Dubai', to: 'Sydney', price: '₹57,999', airline: 'Qantas' },
+  { from: 'Dubai', to: 'Tokyo', price: '₹37,999', airline: 'Japan Airlines' },
+  { from: 'Dubai', to: 'Istanbul', price: '₹16,999', airline: 'Turkish Air' },
 ]
 
 const benefits = [
