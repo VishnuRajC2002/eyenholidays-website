@@ -1,0 +1,26 @@
+export const images = {
+  hero: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80',
+  heroAlt: 'https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1920&q=80',
+  destinations: {
+    dubai: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80',
+    maldives: 'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&q=80',
+    paris: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80',
+    bali: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&q=80',
+    switzerland: 'https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=800&q=80',
+    turkey: 'https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800&q=80',
+    london: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80',
+    singapore: 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800&q=80',
+  },
+  visa: 'https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1920&q=80',
+  holidays: 'https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=1920&q=80',
+  flights: 'https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1920&q=80',
+  hotels: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1920&q=80',
+  tours: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1920&q=80',
+  contact: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&q=80',
+  about: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1920&q=80',
+  testimonials: [
+    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80',
+    'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&q=80',
+    'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&q=80',
+  ],
+}

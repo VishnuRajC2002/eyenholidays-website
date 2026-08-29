@@ -1,0 +1,37 @@
+export const siteConfig = {
+  name: 'Eyenholidays',
+  tagline: 'Your Gateway to Extraordinary Journeys',
+  description: 'Premium travel services including visa processing, holiday packages, flights, hotels, and curated tours across the globe.',
+  phone: '+91 8891 555 242',
+  email: 'eyenholidays@gmail.com',
+  whatsapp: '+918891555242',
+  address: {
+    line1: 'RAKEZ Business Zone, Al Nakheel Area',
+    line2: 'P.O. Box No. 10055',
+    city: 'Ras Al Khaimah',
+    country: 'United Arab Emirates',
+  },
+  addressCalicut: {
+    line1: 'BS 04, DSpace Co-Works Pvt Ltd',
+    line2: '5th Floor, Kadooli Tower, Vandipetta',
+    line3: 'Nadakkavu West',
+    city: 'Kozhikode, Kerala - 673011',
+    country: 'India',
+  },
+  hours: 'Sun – Thu: 9:00 AM – 6:00 PM',
+  social: {
+    facebook: '#',
+    instagram: '#',
+    twitter: '#',
+    linkedin: '#',
+  },
+  nav: [
+    { label: 'Home', href: '/' },
+    { label: 'Visa Services', href: '/visa' },
+    { label: 'Holidays', href: '/holidays' },
+    { label: 'Flights', href: '/flights' },
+    { label: 'Hotels', href: '/hotels' },
+    { label: 'Tours', href: '/tours' },
+    { label: 'Contact', href: '/contact' },
+  ],
+}
