@@ -109,9 +109,14 @@ export default function Footer() {
               </li>
               <li className="flex gap-3 text-sm">
                 <FiPhone className="w-4 h-4 mt-0.5 text-cyan shrink-0" />
-                <a href={`tel:${siteConfig.phone}`} className="text-white/60 hover:text-cyan transition-colors">
-                  {siteConfig.phone}
-                </a>
+                <div>
+                  <a href={`tel:${siteConfig.phoneUAE}`} className="text-white/60 hover:text-cyan transition-colors block">
+                    {siteConfig.phoneUAE} (UAE)
+                  </a>
+                  <a href={`tel:${siteConfig.phone}`} className="text-white/60 hover:text-cyan transition-colors block mt-1">
+                    {siteConfig.phone} (India)
+                  </a>
+                </div>
               </li>
               <li className="flex gap-3 text-sm">
                 <FiMail className="w-4 h-4 mt-0.5 text-cyan shrink-0" />

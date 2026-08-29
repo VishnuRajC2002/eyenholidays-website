@@ -55,8 +55,11 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="text-sm font-semibold text-navy mb-1">Phone</p>
-                      <a href={`tel:${siteConfig.phone}`} className="text-sm text-gray-600 hover:text-cyan">
-                        {siteConfig.phone}
+                      <a href={`tel:${siteConfig.phoneUAE}`} className="text-sm text-gray-600 hover:text-cyan block">
+                        {siteConfig.phoneUAE} (UAE)
+                      </a>
+                      <a href={`tel:${siteConfig.phone}`} className="text-sm text-gray-600 hover:text-cyan block mt-1">
+                        {siteConfig.phone} (India)
                       </a>
                     </div>
                   </li>

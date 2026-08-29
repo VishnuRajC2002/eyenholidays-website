@@ -3,6 +3,7 @@ export const siteConfig = {
   tagline: 'Your Gateway to Extraordinary Journeys',
   description: 'Premium travel services including visa processing, holiday packages, flights, hotels, and curated tours across the globe.',
   phone: '+91 8891 555 242',
+  phoneUAE: '+971 55 792 2895',
   email: 'eyenholidays@gmail.com',
   whatsapp: '+918891555242',
   address: {
